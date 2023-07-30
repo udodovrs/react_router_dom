@@ -1,0 +1,64 @@
+.searchAndSort{
+	padding: 5px;
+	border: 2px solid grey;
+	border-radius: 5px;
+}
+
+.input{
+	width: 350px;
+	margin-right: 2px;
+	border: none;
+  outline: none;
+}
+.newTodo{
+	display: inline-block;
+	padding: 5px;
+	border: 2px solid rgb(83, 124, 238);
+	border-radius: 5px;
+}
+
+.wrapper{
+	width: 400px;
+	border: 2px solid grey;
+	border-radius: 5px;
+	padding: 10px;
+}
+
+.todoList{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.todo{
+	border-bottom: 2px solid grey;
+	display: flex;
+	align-items: baseline;
+}
+.link{
+  width: 250px;
+  overflow: hidden;
+  display: inline-block;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.grayCircule{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: gray;
+	margin-right: 5px;
+	border: 1px solid blue;
+}
+
+.greenCircule{
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: green;
+	margin-right: 5px;
+	border: 1px solid blue;
+}

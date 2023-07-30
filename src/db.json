@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "title": "Первая задача+1",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "title": "Самая первая задача",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "title": "Вторая по важности +1",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Задача с очень длинным названием",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+.wrapper{
+	margin: 10px;
+	padding: 10px;
+}
+
+.btn{
+	width: 45px;
+	height: 30px;
+	margin: 5px;
+	margin-right: 2px;
+	font-size: large;
+}
+
+.checkbox{
+	width: 45px;
+	position: relative;
+	height: 30px;
+	margin: 0;
+	padding: 0;
+	top: 8px;
+
+}
+
+.todo{
+	display: flex;
+	align-items: baseline;
+}
+
+.span{
+	font-size: large;
+	margin-right: 5px;
+	width: 400px;
+	border-bottom: 2px solid gray;
+}
+
+.input{
+	border: none;
+  outline: none;
+	font-size:medium;
+	width: 400px;
+	border-bottom: 2px solid gray;
+	background: rgb(235, 253, 251);
+	font-style: italic;
+}

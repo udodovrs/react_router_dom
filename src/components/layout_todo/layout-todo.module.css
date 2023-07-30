@@ -1,0 +1,15 @@
+.wrapper{
+	width: 500px;
+	border: 2px solid gray;
+	background-color: rgb(233, 233, 233);
+}
+
+.btn{
+	width: 40px;
+	height: 25px;
+	margin: 5px;
+}
+
+.span{
+	font-size:large
+}
